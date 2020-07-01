@@ -1,0 +1,7 @@
+5
+i¨v[25]¨v[25]¨v[15]¨i
+1000000¨0000000¨0000000¨0000000¨0000000
+id¨nome¨sobrenome¨sexo¨idade
++0000018¨Vinicius5¨Natal9¨Masculino+000020
++0000029¨Alexandre9¨Vilarinho9¨Masculino+000020
++0000037¨Geovana5¨Natal8¨Feminino+000044
